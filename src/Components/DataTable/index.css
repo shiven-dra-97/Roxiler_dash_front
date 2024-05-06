@@ -1,0 +1,21 @@
+.options{
+    margin-bottom: 50px;
+}
+
+.search-query-box{
+    width: 250px;
+    padding-left: 20px;
+}
+
+.drop-box{
+    width: 250px;
+}
+
+.button-box{
+    width: 200px;
+}
+
+.img-size{
+    height: 100px;
+    width: 100px;
+}

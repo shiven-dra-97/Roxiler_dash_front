@@ -1,0 +1,13 @@
+.data {
+
+    background-image: url("../../../public/Stock\ Chart.svg");
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    height: 250px;
+    margin-top: 10px;
+}
